@@ -1,0 +1,4 @@
+Hello, world!
+This is a file.
+It contains three lines of text.
+Adding a new line.
