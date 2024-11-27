@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/MSRTanim/README-MANAGER/blob/main/python.gif)](http://www.msrtanim.xyz)
 
 <h2>Howdy , it's <i>MD SAMIUR RAHMAN TANIM 👋</i></h2>
-This repositories is all about the <b>Functional Programming in Python</b> in <i>adtU</i> Lab Class
+This repositories is all about the <b>3rd Sem Lab Class Work</b> in <i>adtU</i> DSA & FPP
 <br /><br />
 
 <!-- Badges -->
